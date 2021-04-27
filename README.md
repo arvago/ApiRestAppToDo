@@ -1,2 +1,2 @@
 # apiRestToDo
-Api Rest for toDo application 
+Api Rest for toDo list application 
